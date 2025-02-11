@@ -19,5 +19,5 @@ Layers is a **clean and modern** SaaS landing page with a **bright, minimalistic
 
 ## 🌍 Live Demo
 
-Check it out here 👉 [Layers Live Demo](https://modern-saas-landing-page-nextjs.vercel.app/](https://modern-saas-landing-page-nextjs.vercel.app/)
+Check it out here 👉 (https://modern-saas-landing-page-nextjs.vercel.app/](https://modern-saas-landing-page-nextjs.vercel.app/)
 
